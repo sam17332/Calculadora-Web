@@ -1,0 +1,68 @@
+.calcu{
+    width: 500px;
+    height: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: DodgerBlue;
+}
+
+.input{
+    height: 100px;
+    width: 500px;
+    color: white;
+    background-color: rgb(37, 37, 37);
+    font-size: 80px;
+    text-align: right;
+    border: none;
+}
+
+.boton{
+    width: 125px;
+    height: 125px;
+    background-color: gray;
+    font-size: 40px;
+    color: white;
+    border-left-color: black;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-right-color: black;
+}
+
+.botonArriba{
+    width: 125px;
+    height: 125px;
+    background-color: orange;
+    font-size: 40px;
+    color: white;
+    border-left-color: black;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-right-color: black;
+}
+
+.botonArriba2{
+    width: 125px;
+    height: 125px;
+    background-color: rgb(34, 34, 34);
+    font-size: 40px;
+    color: white;
+    border-left-color: black;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-right-color: black;
+}
+
+.boton0{
+    width: 250px;
+    height: 125px;
+    background-color: gray;
+    font-size: 40px;
+    color: white;
+    border-left-color: black;
+    border-top-color: black;
+    border-bottom-color: black;
+    border-right-color: black;
+}

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Calcu from './calcu.js';
+import Botones from './botones.jsx'
 
 class App extends Component {
     constructor(props){
@@ -9,8 +9,8 @@ class App extends Component {
   
   render() {
     return (
-      <div className="App">
-          <Calcu/>
+      <div className="calcu">
+        <Botones />
       </div>
     );
     }
